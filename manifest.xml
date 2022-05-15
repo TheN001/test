@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <manifest version="2.0" type="device" target-level="3">
+=======
+<manifest version="2.0" type="device" target-level="5">
+>>>>>>> 0697e83 (exynos9820-common: Set manifest target-level to 5)
     <hal format="hidl">
         <name>android.hardware.audio</name>
         <transport>hwbinder</transport>

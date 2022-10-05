@@ -10,5 +10,5 @@ cd -
 
 # Health fix
 
-sudo rm -rf ./hardware/interfaces/health/2.1/default/android.hardware.health@2.1-service.rc
+rm -rf ./hardware/interfaces/health/2.1/default/android.hardware.health@2.1-service.rc
 cp ./device/samsung/a50-common/patch/android.hardware.health@2.1-service.rc ./hardware/interfaces/health/2.1/default/
